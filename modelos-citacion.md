@@ -4,7 +4,7 @@ La transformación digital impacta en múltiples dimensiones organizacionales [@
 
 ## Formato 2: supresión de autor `[-@key]`
 
-Como señala Salas [-@SALAS-2018], la transformación digital no debe confundirse con la simple digitalización de procesos. Lafonte [-@LAFONTE-2020] aborda esta distinción en el contexto logístico argentino.
+Como señala Enrique Salas [-@SALAS-2018], la transformación digital no debe confundirse con la simple digitalización de procesos. Lafonte [-@LAFONTE-2020] aborda esta distinción en el contexto logístico argentino.
 
 ## Formato 3: cita con localizador de página
 
@@ -16,7 +16,7 @@ Mahmood [-@MAHMOOD-2019, p. 235] clasifica los desafíos en tres categorías. Su
 
 ## Formato 5: prefijo textual `[ver @key]`
 
-Para un análisis detallado del contexto regional [ver @DGESTA-SALTA-2019].
+Para un análisis detallado del contexto regional [ver 1] [@DGESTA-SALTA-2019].
 
 ## Formato 6: múltiples citas en un bloque
 
