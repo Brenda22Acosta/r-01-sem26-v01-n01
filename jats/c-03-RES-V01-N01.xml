@@ -24,7 +24,7 @@
          <title-group>
             <article-title>Reseña bibliográfica</article-title>
             <trans-title-group xml:lang="en">
-               <trans-title>.</trans-title>
+               <trans-title>Book Review</trans-title>
             </trans-title-group>
          </title-group>
          <contrib-group>
@@ -36,8 +36,9 @@
             </contrib>
          </contrib-group>
          <pub-date pub-type="epub-ppub">
-            <month>06</month>
             <year>2026</year>
+            <month>06</month>
+            <day>18</day>
          </pub-date>
          <volume>01</volume>
          <issue>01</issue>
