@@ -13,6 +13,7 @@
          <issn pub-type="epub">1518-8787</issn>
          <publisher>
             <publisher-name>Universidad de Buenos Aires</publisher-name>
+            <publisher-loc>Argentina</publisher-loc>
          </publisher>
       </journal-meta>
       <article-meta>
@@ -33,6 +34,7 @@
                   <surname>Acosta</surname>
                   <given-names>Brenda</given-names>
                </name>
+               <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4874-2874</contrib-id>
             </contrib>
          </contrib-group>
          <pub-date pub-type="epub-ppub">
@@ -43,6 +45,10 @@
          <issue>01</issue>
          <permissions>
             <copyright-year>2026</copyright-year>
+            <license license-type="open-access"
+                     xlink:href="https://creativecommons.org/licenses/by/4.0/">
+               <license-p>CC BY 4.0</license-p>
+            </license>
          </permissions>
          <abstract xml:lang="es">
             <p>Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.</p>
@@ -174,6 +180,4 @@
       </sec>
       <sec id="sec-6">
          <title>Habilidades digitales y rendimiento académico</title>
-         <p>El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado (β = 0,34; p &lt; 0,001), por encima del acceso material (β = 0,21; p &lt; 0,01) y del acceso motivacional (β = 0,18; p &lt; 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, en buena medida, como variable mediadora entre el acceso material y el rendimiento: los estudiantes con mejores condiciones materiales desarrollan habilidades digitales más sofisticadas, lo que a su vez se traduce en mejores resultados académicos.</p>
-         <p>La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.</p>
-         <boxed-text 
+         <p>El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado (β = 0,34; p &lt; 0,001), por encima del acceso material (β = 0,21; p &lt; 0,01) y del acceso motivacional (β = 0,18; p &lt; 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, e
