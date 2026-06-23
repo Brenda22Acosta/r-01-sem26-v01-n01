@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article
-  PUBLIC "-//NLM//DTD JATS (Z39.96) Article Archiving and Interchange DTD v1.4//EN" "https://jats.nlm.nih.gov/archiving/1.4/JATS-archivearticle1-4.dtd">
-<article xmlns:xlink="http://www.w3.org/1999/xlink"
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.0"
+         specific-use="sps-1.9"
          article-type="research-article"
          xml:lang="es">
    <front>
       <journal-meta>
          <journal-id journal-id-type="publisher-id">1518-8787</journal-id>
+         <journal-id journal-id-type="nlm-ta">RAI</journal-id>
          <journal-title-group>
             <journal-title>Revista argentina de ideas</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">RAI</abbrev-journal-title>
          </journal-title-group>
          <issn pub-type="ppub">1518-8787</issn>
          <issn pub-type="epub">1518-8787</issn>
@@ -18,6 +23,7 @@
          </publisher>
       </journal-meta>
       <article-meta>
+         <article-id pub-id-type="publisher-id">10.1038/s41586-024-07421-0</article-id>
          <article-id pub-id-type="doi">10.1038/s41586-024-07421-0</article-id>
          <article-categories>
             <subj-group subj-group-type="heading">
@@ -33,14 +39,19 @@
          </title-group>
          <contrib-group>
             <contrib contrib-type="author" id="a1">
-               <name>
+               <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4874-2874</contrib-id>
+               <name name-style="western">
                   <surname>Acosta</surname>
                   <given-names>Brenda</given-names>
                </name>
-               <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4874-2874</contrib-id>
             </contrib>
          </contrib-group>
-         <pub-date pub-type="epub-ppub">
+         <pub-date date-type="collection" publication-format="electronic">
+            <month>06</month>
+            <year>2026</year>
+         </pub-date>
+         <pub-date date-type="pub" publication-format="electronic">
+            <day>09</day>
             <month>06</month>
             <year>2026</year>
          </pub-date>
@@ -56,11 +67,13 @@
          <permissions>
             <copyright-year>2026</copyright-year>
             <license license-type="open-access"
-                     xlink:href="https://creativecommons.org/licenses/by/4.0/">
+                     xlink:href="https://creativecommons.org/licenses/by/4.0/"
+                     xml:lang="es">
                <license-p>CC BY 4.0</license-p>
             </license>
          </permissions>
-         <abstract xml:lang="es">
+         <self-uri xlink:href="https://www.youtube.com/watch?v=G46QRlTXhrM&amp;feature=youtu.be"/>
+         <abstract>
             <p>Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.</p>
          </abstract>
          <trans-abstract xml:lang="en">
@@ -80,12 +93,6 @@
             <kwd>digital skills</kwd>
             <kwd>Latin America</kwd>
          </kwd-group>
-         <custom-meta-group>
-            <custom-meta>
-               <meta-name>xml-lang</meta-name>
-               <meta-value>es</meta-value>
-            </custom-meta>
-         </custom-meta-group>
       </article-meta>
    </front>
    <body>
@@ -129,74 +136,74 @@
       <sec id="sec-5">
          <title>Condiciones de acceso material</title>
          <p>La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.</p>
-         <table-wrap id="tbl-1">
+         <table-wrap id="tbl-1" position="float" orientation="portrait">
             <table>
-               <colgroup>
-                  <col width="41%"/>
-                  <col width="14%"/>
-                  <col width="14%"/>
-                  <col width="15%"/>
-                  <col width="15%"/>
+               <colgroup span="1">
+                  <col width="41%" span="1"/>
+                  <col width="14%" span="1"/>
+                  <col width="14%" span="1"/>
+                  <col width="15%" span="1"/>
+                  <col width="15%" span="1"/>
                </colgroup>
                <tbody>
                   <tr>
-                     <td align="left">
+                     <td align="left" rowspan="1" colspan="1">
                         <bold>Indicador</bold>
                      </td>
-                     <td align="left">
+                     <td align="left" rowspan="1" colspan="1">
                         <bold>UBA Q1</bold>
                      </td>
-                     <td align="left">
+                     <td align="left" rowspan="1" colspan="1">
                         <bold>UBA Q5</bold>
                      </td>
-                     <td align="left">
+                     <td align="left" rowspan="1" colspan="1">
                         <bold>UNAM Q1</bold>
                      </td>
-                     <td align="left">
+                     <td align="left" rowspan="1" colspan="1">
                         <bold>UNAM Q5</bold>
                      </td>
                   </tr>
                   <tr>
-                     <td align="left">Computadora de escritorio o portátil</td>
-                     <td align="left">42,3</td>
-                     <td align="left">96,1</td>
-                     <td align="left">38,7</td>
-                     <td align="left">94,5</td>
+                     <td align="left" rowspan="1" colspan="1">Computadora de escritorio o portátil</td>
+                     <td align="left" rowspan="1" colspan="1">42,3</td>
+                     <td align="left" rowspan="1" colspan="1">96,1</td>
+                     <td align="left" rowspan="1" colspan="1">38,7</td>
+                     <td align="left" rowspan="1" colspan="1">94,5</td>
                   </tr>
                   <tr>
-                     <td align="left">Conexión fija (fibra o cable)</td>
-                     <td align="left">51,8</td>
-                     <td align="left">93,4</td>
-                     <td align="left">35,2</td>
-                     <td align="left">91,8</td>
+                     <td align="left" rowspan="1" colspan="1">Conexión fija (fibra o cable)</td>
+                     <td align="left" rowspan="1" colspan="1">51,8</td>
+                     <td align="left" rowspan="1" colspan="1">93,4</td>
+                     <td align="left" rowspan="1" colspan="1">35,2</td>
+                     <td align="left" rowspan="1" colspan="1">91,8</td>
                   </tr>
                   <tr>
-                     <td align="left">Espacio privado de estudio</td>
-                     <td align="left">28,6</td>
-                     <td align="left">87,9</td>
-                     <td align="left">24,1</td>
-                     <td align="left">85,3</td>
+                     <td align="left" rowspan="1" colspan="1">Espacio privado de estudio</td>
+                     <td align="left" rowspan="1" colspan="1">28,6</td>
+                     <td align="left" rowspan="1" colspan="1">87,9</td>
+                     <td align="left" rowspan="1" colspan="1">24,1</td>
+                     <td align="left" rowspan="1" colspan="1">85,3</td>
                   </tr>
                   <tr>
-                     <td align="left">Dispositivo de uso exclusivo</td>
-                     <td align="left">35,4</td>
-                     <td align="left">94,7</td>
-                     <td align="left">31,6</td>
-                     <td align="left">92,1</td>
+                     <td align="left" rowspan="1" colspan="1">Dispositivo de uso exclusivo</td>
+                     <td align="left" rowspan="1" colspan="1">35,4</td>
+                     <td align="left" rowspan="1" colspan="1">94,7</td>
+                     <td align="left" rowspan="1" colspan="1">31,6</td>
+                     <td align="left" rowspan="1" colspan="1">92,1</td>
                   </tr>
                   <tr>
-                     <td align="left">Velocidad ≥ 20 Mbps</td>
-                     <td align="left">23,1</td>
-                     <td align="left">88,2</td>
-                     <td align="left">18,4</td>
-                     <td align="left">86,7</td>
+                     <td align="left" rowspan="1" colspan="1">Velocidad ≥ 20 Mbps</td>
+                     <td align="left" rowspan="1" colspan="1">23,1</td>
+                     <td align="left" rowspan="1" colspan="1">88,2</td>
+                     <td align="left" rowspan="1" colspan="1">18,4</td>
+                     <td align="left" rowspan="1" colspan="1">86,7</td>
                   </tr>
                   <tr>
-                     <td align="left">Acceso simultáneo sin degradación</td>
-                     <td align="left">19,7</td>
-                     <td align="left">82,5</td>
-                     <td align="left">15,3</td>
-                     <td align="left">79,8</td>
+                     <td align="left" rowspan="1" colspan="1">Acceso simultáneo sin degradación</td>
+                     <td align="left" rowspan="1" colspan="1">19,7</td>
+                     <td align="left" rowspan="1" colspan="1">82,5</td>
+                     <td align="left" rowspan="1" colspan="1">15,3</td>
+                     <td align="left" rowspan="1" colspan="1">79,8</td>
                   </tr>
                </tbody>
             </table>
@@ -207,10 +214,12 @@
          <title>Habilidades digitales y rendimiento académico</title>
          <p>El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado (β = 0,34; p &lt; 0,001), por encima del acceso material (β = 0,21; p &lt; 0,01) y del acceso motivacional (β = 0,18; p &lt; 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, en buena medida, como variable mediadora entre el acceso material y el rendimiento: los estudiantes con mejores condiciones materiales desarrollan habilidades digitales más sofisticadas, lo que a su vez se traduce en mejores resultados académicos.</p>
          <p>La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.</p>
-         <boxed-text id="Fig01">
+         <boxed-text id="Fig01" position="float" orientation="portrait">
             <graphic mimetype="image"
                      mime-subtype="png"
-                     xlink:href="media/separador.png"/>
+                     xlink:href="media/separador.png"
+                     position="float"
+                     orientation="portrait"/>
             <p>
                <bold>Figura 1.</bold> Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; *p &lt; 0,05; **p &lt; 0,01; ***p &lt; 0,001.</p>
          </boxed-text>
@@ -239,9 +248,10 @@
    <back>
       <ref-list>
          <ref id="bib-2562-WARSCHAUER2004">
+            <mixed-citation publication-type="book">Warschauer, M. (2004). <italic>Technology and Social Inclusion: Rethinking the Digital Divide</italic>. The MIT Press.</mixed-citation>
             <element-citation publication-type="book">
                <person-group person-group-type="author">
-                  <name>
+                  <name name-style="western">
                      <surname>Warschauer</surname>
                      <given-names>M.</given-names>
                   </name>
@@ -252,9 +262,10 @@
             </element-citation>
          </ref>
          <ref id="bib-2563-HARGITTAI2002">
+            <mixed-citation publication-type="journal">Hargittai, E. (2002). Second-Level Digital Divide: Differences in People's Online Skills. <italic>First Monday</italic>, <italic>7</italic>(4). https://doi.org/10.5210/fm.v7i4.942.</mixed-citation>
             <element-citation publication-type="journal">
                <person-group person-group-type="author">
-                  <name>
+                  <name name-style="western">
                      <surname>Hargittai</surname>
                      <given-names>E.</given-names>
                   </name>
@@ -269,9 +280,10 @@
             </element-citation>
          </ref>
          <ref id="bib-2565-VANDIJK2020">
+            <mixed-citation publication-type="book">Van Dijk, J. (2020). <italic>The Digital Divide</italic>. Polity Press.</mixed-citation>
             <element-citation publication-type="book">
                <person-group person-group-type="author">
-                  <name>
+                  <name name-style="western">
                      <surname>Van Dijk</surname>
                      <given-names>J.</given-names>
                   </name>
@@ -282,9 +294,10 @@
             </element-citation>
          </ref>
          <ref id="bib-2566-CEPAL2021">
+            <mixed-citation publication-type="report">CEPAL (2021). <italic>Tecnologías digitales para un nuevo futuro</italic>. Comisión Económica para América Latina y el Caribe.</mixed-citation>
             <element-citation publication-type="report">
                <person-group person-group-type="author">
-                  <name>
+                  <name name-style="western">
                      <surname>CEPAL</surname>
                   </name>
                </person-group>

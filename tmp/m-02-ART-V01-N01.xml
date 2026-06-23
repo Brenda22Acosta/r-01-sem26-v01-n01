@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meta-articulo>
   <identidad>
+    <doi>10.1038/s41586-024-07421-0</doi>
+    <url-texto-completo>https://www.youtube.com/watch?v=G46QRlTXhrM&amp;feature=youtu.be</url-texto-completo>
   </identidad>
   <revista>
   </revista>
   <autores>
+    <autor ref="a1">
+      <credit>Formal analysis</credit>
+    </autor>
   </autores>
 </meta-articulo>
