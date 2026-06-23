@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>editorial sin nombre</publisher>
+      <journalTitle>Revista argentina de ideas</journalTitle>
+      <issn>1518-8787</issn>
+      <eissn>1518-8787</eissn>
+      <publicationDate>2026-06-18</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <doi>10.1371/journal.pone.0115165</doi>
+      <documentType>book review</documentType>
+      <title language="spa">Reseña bibliográfica</title>
+      <authors>
+         <author>
+            <name>Gadea, Micaela</name>
+            <orcid_id>https://orcid.org/0000-0002-3777-2202</orcid_id>
+         </author>
+      </authors>
+      <abstract language="spa">A elite do atraso, de Jessé Souza, desafía la tesis tradicional de que el patrimonialismo portugués causó los males de Brasil. El sociólogo sostiene que la esclavitud es la verdadera matriz de la desigualdad actual. Souza critica a pensadores canónicos como Buarque de Holanda por crear relatos que eximen a las élites económicas y culpan al Estado. Además, introduce el concepto de "ralé" para visibilizar a la clase social marginada mediante el desprecio simbólico. Aunque su tono polémico y esquemático recibe críticas, la obra es una intervención urgente para entender cómo las élites latinoamericanas legitiman sus privilegios frente a las clases populares.</abstract>
+      <fullTextUrl format="text/html">https://ar.pinterest.com/pin/719239002970177904/</fullTextUrl>
+      <keywords language="spa">
+         <keyword>esclavitud</keyword>
+         <keyword>desigualdad</keyword>
+         <keyword>élites</keyword>
+         <keyword>Brasil</keyword>
+         <keyword>patrimonialismo</keyword>
+         <keyword>sociología</keyword>
+         <keyword>ralé</keyword>
+         <keyword>privilegio.</keyword>
+      </keywords>
+   </record>
+</records>

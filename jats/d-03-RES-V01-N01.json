@@ -1,0 +1,35 @@
+{
+  "bibjson": {
+    "title": "Reseña bibliográfica",
+    "abstract": "A elite do atraso, de Jessé Souza, desafía la tesis tradicional de que el patrimonialismo portugués causó los males de Brasil. El sociólogo sostiene que la esclavitud es la verdadera matriz de la desigualdad actual. Souza critica a pensadores canónicos como Buarque de Holanda por crear relatos que eximen a las élites económicas y culpan al Estado. Además, introduce el concepto de "ralé" para visibilizar a la clase social marginada mediante el desprecio simbólico. Aunque su tono polémico y esquemático recibe críticas, la obra es una intervención urgente para entender cómo las élites latinoamericanas legitiman sus privilegios frente a las clases populares.",
+    "year": "2026",
+    "month": "junio",
+    "keywords": [
+      "esclavitud; desigualdad; élites; Brasil; patrimonialismo; sociología; ralé; privilegio."
+    ],
+    "author": [
+      {
+        "name": "Gadea, Micaela",
+        "orcid_id": "https://orcid.org/0000-0002-3777-2202"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "1518-8787"},
+      {"type": "pissn", "id": "1518-8787"},
+      {"type": "doi", "id": "10.1371/journal.pone.0115165"}
+    ],
+    "journal": {
+      "title": "Revista argentina de ideas",
+      "publisher": "editorial sin nombre",
+      "volume": "01",
+      "number": "01"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://ar.pinterest.com/pin/719239002970177904/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

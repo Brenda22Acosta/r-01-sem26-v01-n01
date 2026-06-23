@@ -5,13 +5,15 @@
     <journal-title-group>
       <journal-title>Revista argentina de ideas</journal-title>
     </journal-title-group>
+    <issn pub-type="ppub">1518-8787</issn>
     <issn pub-type="epub">1518-8787</issn>
     <publisher>
-      <publisher-name>Universidad de Buenos Aires</publisher-name>
+      <publisher-name>editorial sin nombre</publisher-name>
       <publisher-loc>Argentina</publisher-loc>
     </publisher>
   </journal-meta>
   <article-meta>
+    <article-id pub-id-type="doi">10.1038/s41586-024-07421-0</article-id>
     <article-categories>
       <subj-group subj-group-type="heading">
         <subject>research-article</subject>
@@ -19,6 +21,7 @@
     </article-categories>
     <title-group>
       <article-title>Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México</article-title>
+      <subtitle>.</subtitle>
       <trans-title-group xml:lang="en">
         <trans-title>Digital inequality and academic performance in higher education: a comparative study in public universities in Argentina and Mexico</trans-title>
       </trans-title-group>
@@ -38,6 +41,13 @@
     </pub-date>
     <volume>01</volume>
     <issue>01</issue>
+    <history>
+      <date date-type="pub">
+        <day>09</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+    </history>
     <permissions>
       <copyright-year>2026</copyright-year>
       <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">

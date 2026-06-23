@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>editorial sin nombre</publisher>
+      <journalTitle>Revista argentina de ideas</journalTitle>
+      <issn>1518-8787</issn>
+      <eissn>1518-8787</eissn>
+      <publicationDate>2026-06</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <doi>10.1038/s41593-018-0209-y</doi>
+      <documentType>editorial</documentType>
+      <title language="spa">Las deudas pendientes de la digitalización en América Latina</title>
+      <authors>
+         <author>
+            <name>Gadea, Micaela</name>
+            <orcid_id>https://orcid.org/0000-0002-3777-2202</orcid_id>
+         </author>
+      </authors>
+      <abstract language="spa">La pandemia de COVID-19 aceleró la digitalización en América Latina, forzando la virtualidad en la educación, la salud y la administración pública. Este proceso no resolvió las carencias estructurales de la región, sino que visibilizó y profundizó las desigualdades sociales preexistentes. Aunque la penetración de internet creció de forma significativa, se consolidó la "brecha digital de segundo nivel". Los sectores más vulnerables quedaron limitados al uso de teléfonos móviles con datos restringidos, afectando su inserción laboral y educativa. La simple provisión de infraestructura tecnológica resulta insuficiente si no se acompaña de políticas públicas integrales que atiendan variables socioeconómicas.</abstract>
+      <fullTextUrl format="text/html">https://ar.pinterest.com/pin/691584086531349786/</fullTextUrl>
+      <keywords language="spa">
+         <keyword>pandemia</keyword>
+         <keyword>digitalización</keyword>
+         <keyword>América Latina</keyword>
+         <keyword>brecha digital</keyword>
+         <keyword>desigualdad social</keyword>
+         <keyword>infraestructura</keyword>
+         <keyword>políticas públicas</keyword>
+         <keyword>conectividad</keyword>
+      </keywords>
+   </record>
+</records>

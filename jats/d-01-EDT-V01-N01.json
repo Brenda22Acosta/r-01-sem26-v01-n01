@@ -1,0 +1,42 @@
+{
+  "bibjson": {
+    "title": "Las deudas pendientes de la digitalización en América Latina",
+    "abstract": "La pandemia de COVID-19 aceleró la digitalización en América Latina, forzando la virtualidad en la educación, la salud y la administración pública. Este proceso no resolvió las carencias estructurales de la región, sino que visibilizó y profundizó las desigualdades sociales preexistentes. Aunque la penetración de internet creció de forma significativa, se consolidó la "brecha digital de segundo nivel". Los sectores más vulnerables quedaron limitados al uso de teléfonos móviles con datos restringidos, afectando su inserción laboral y educativa. La simple provisión de infraestructura tecnológica resulta insuficiente si no se acompaña de políticas públicas integrales que atiendan variables socioeconómicas.",
+    "year": "2026",
+    "month": "junio",
+    "keywords": [
+      "pandemia",
+      "digitalización",
+      "América Latina",
+      "brecha digital",
+      "desigualdad social",
+      "infraestructura",
+      "políticas públicas",
+      "conectividad"
+    ],
+    "author": [
+      {
+        "name": "Gadea, Micaela",
+        "orcid_id": "https://orcid.org/0000-0002-3777-2202"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "1518-8787"},
+      {"type": "pissn", "id": "1518-8787"},
+      {"type": "doi", "id": "10.1038/s41593-018-0209-y"}
+    ],
+    "journal": {
+      "title": "Revista argentina de ideas",
+      "publisher": "editorial sin nombre",
+      "volume": "01",
+      "number": "01"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://ar.pinterest.com/pin/691584086531349786/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

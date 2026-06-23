@@ -5,12 +5,15 @@
     <journal-title-group>
       <journal-title>Revista argentina de ideas</journal-title>
     </journal-title-group>
+    <issn pub-type="ppub">1518-8787</issn>
     <issn pub-type="epub">1518-8787</issn>
     <publisher>
-      <publisher-name>Universidad de Buenos Aires</publisher-name>
+      <publisher-name>editorial sin nombre</publisher-name>
+      <publisher-loc>Argentina</publisher-loc>
     </publisher>
   </journal-meta>
   <article-meta>
+    <article-id pub-id-type="doi">10.1038/s41593-018-0209-y</article-id>
     <article-categories>
       <subj-group subj-group-type="heading">
         <subject>editorial</subject>
@@ -23,11 +26,12 @@
       </trans-title-group>
     </title-group>
     <contrib-group>
-      <contrib contrib-type="author" id="a1">
+      <contrib contrib-type="author" id="a2">
         <name>
-          <surname>Acosta</surname>
-          <given-names>Brenda</given-names>
+          <surname>Gadea</surname>
+          <given-names>Micaela</given-names>
         </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3777-2202</contrib-id>
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">
@@ -38,7 +42,36 @@
     <issue>01</issue>
     <permissions>
       <copyright-year>2026</copyright-year>
+      <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+        <license-p>CC BY 4.0</license-p>
+      </license>
     </permissions>
+    <abstract xml:lang="es">
+      <p>La pandemia de COVID-19 aceleró la digitalización en América Latina, forzando la virtualidad en la educación, la salud y la administración pública. Este proceso no resolvió las carencias estructurales de la región, sino que visibilizó y profundizó las desigualdades sociales preexistentes. Aunque la penetración de internet creció de forma significativa, se consolidó la &quot;brecha digital de segundo nivel&quot;. Los sectores más vulnerables quedaron limitados al uso de teléfonos móviles con datos restringidos, afectando su inserción laboral y educativa. La simple provisión de infraestructura tecnológica resulta insuficiente si no se acompaña de políticas públicas integrales que atiendan variables socioeconómicas.</p>
+    </abstract>
+    <trans-abstract xml:lang="en">
+      <p>The COVID-19 pandemic drastically accelerated digitalization in Latin America, forcing education, healthcare, and public administration into virtual platforms. This process did not resolve the region&apos;s structural deficiencies; instead, it exposed and deepened pre-existing social inequalities. Although internet penetration grew significantly, the &quot;second-level digital divide&quot; became entrenched. The most vulnerable sectors remained restricted to using mobile phones with limited data plans, which hindered their educational and labor market integration. Simply providing technological infrastructure is insufficient if it is not accompanied by comprehensive public policies that address socioeconomic variables.</p>
+    </trans-abstract>
+    <kwd-group xml:lang="es" kwd-group-type="author-generated">
+      <kwd>pandemia</kwd>
+      <kwd>digitalización</kwd>
+      <kwd>América Latina</kwd>
+      <kwd>brecha digital</kwd>
+      <kwd>desigualdad social</kwd>
+      <kwd>infraestructura</kwd>
+      <kwd>políticas públicas</kwd>
+      <kwd>conectividad</kwd>
+    </kwd-group>
+    <kwd-group xml:lang="en" kwd-group-type="author-generated">
+      <kwd>pandemic</kwd>
+      <kwd>digitization</kwd>
+      <kwd>Latin America</kwd>
+      <kwd>digital divide</kwd>
+      <kwd>social inequality</kwd>
+      <kwd>infrastructure</kwd>
+      <kwd>public policies</kwd>
+      <kwd>connectivity</kwd>
+    </kwd-group>
     <custom-meta-group>
       <custom-meta>
         <meta-name>xml-lang</meta-name>
