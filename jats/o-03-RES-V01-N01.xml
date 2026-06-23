@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-03-RES-V01-N01-20260623201814</doi_batch_id>
+      <timestamp>20260623201814</timestamp>
+      <depositor>
+         <depositor_name>editorial sin nombre</depositor_name>
+         <email_address>yo@gmail.com</email_address>
+      </depositor>
+      <registrant>Universidad de Buenos Aires</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Revista argentina de ideas</full_title>
+            <issn media_type="electronic">1518-8787</issn>
+            <issn media_type="print">1518-8787</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>18</day>
+               <year>2026</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Reseña bibliográfica</title>
+               <original_language_title language="en">Book Review</original_language_title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Micaela</given_name>
+                  <surname>Gadea</surname>
+                  <ORCID authenticated="true">https://orcid.org/0000-0002-3777-2202</ORCID>
+               </person_name>
+            </contributors>
+            <jats:abstract>
+               <jats:p xml:lang="es">A elite do atraso, de Jessé Souza, desafía la tesis tradicional de que el patrimonialismo portugués causó los males de Brasil. El sociólogo sostiene que la esclavitud es la verdadera matriz de la desigualdad actual. Souza critica a pensadores canónicos como Buarque de Holanda por crear relatos que eximen a las élites económicas y culpan al Estado. Además, introduce el concepto de "ralé" para visibilizar a la clase social marginada mediante el desprecio simbólico. Aunque su tono polémico y esquemático recibe críticas, la obra es una intervención urgente para entender cómo las élites latinoamericanas legitiman sus privilegios frente a las clases populares.</jats:p>
+            </jats:abstract>
+            <jats:abstract>
+               <jats:p xml:lang="en">Jessé Souza's A elite do atraso challenges the traditional thesis that Portuguese patrimonialism caused Brazil's problems. The sociologist argues that slavery is the true root of current inequality. Souza criticizes canonical thinkers like Buarque de Holanda for creating narratives that exonerate economic elites and blame the state. He also introduces the concept of "ralé" to make the marginalized social class visible through symbolic contempt. Although its polemical and schematic tone has drawn criticism, the work is an urgent intervention for understanding how Latin American elites legitimize their privileges over the popular classes.</jats:p>
+            </jats:abstract>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>18</day>
+               <year>2026</year>
+            </publication_date>
+            <doi_data>
+               <doi>10.1371/journal.pone.0115165</doi>
+               <resource content_version="vor" mime_type="text/html">https://ar.pinterest.com/pin/719239002970177904/</resource>
+            </doi_data>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>
