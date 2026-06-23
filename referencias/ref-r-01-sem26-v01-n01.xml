@@ -209,12 +209,12 @@
     <element-citation publication-type="journal">
       <person-group person-group-type="author">
         <name>
-          <surname>Van Deursen</surname>
-          <given-names>A. J. A. M.</given-names>
+          <surname>{Van Deursen</surname>
+          <given-names>A.}</given-names>
         </name>
         <name>
-          <surname>Van Dijk</surname>
-          <given-names>J. A. G. M</given-names>
+          <surname>{Van Dijk</surname>
+          <given-names>J.}</given-names>
         </name>
       </person-group>
       <article-title>The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access</article-title>
@@ -231,8 +231,8 @@
     <element-citation publication-type="book">
       <person-group person-group-type="author">
         <name>
-          <surname>Van Dijk</surname>
-          <given-names>J. A. G. M.</given-names>
+          <surname>{Van Dijk</surname>
+          <given-names>J.}</given-names>
         </name>
       </person-group>
       <source>The Digital Divide</source>
