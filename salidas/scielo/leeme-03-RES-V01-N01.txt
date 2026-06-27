@@ -1,0 +1,39 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-26 21:09:11
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Reseña bibliográfica
+Autor(es): Gadea, Micaela
+Archivo:   03-RES-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: RAI
+ISSN:            1518-8787
+URL canónica:    https://ar.pinterest.com/pin/719239002970177904/
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 1518-8787-RAI-01-01-00012
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  1518-8787-RAI-01-01-00012.xml — XML SciELO PS 1.9
+  1518-8787-RAI-01-01-00012.pdf — PDF final
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       VÁLIDO — is_valid: true
+  DTD errors:   0
+  Style errors: 0
+
+OBSERVACIONES
+------------------------------------------------------------
+  ADVERTENCIA: El artículo no tiene imágenes referenciadas.
+  Sin observaciones — el paquete está listo para enviar a SciELO.
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Enviar el ZIP a scielo@scielo.org

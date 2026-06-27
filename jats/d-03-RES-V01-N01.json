@@ -22,7 +22,9 @@
       "title": "Revista argentina de ideas",
       "publisher": "editorial sin nombre",
       "volume": "01",
-      "number": "01"
+      "number": "01",
+      "start_page": "12",
+      "end_page": "15"
     },
     "link": [
       {

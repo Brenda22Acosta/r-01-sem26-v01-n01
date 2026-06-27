@@ -1,0 +1,39 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-26 21:29:22
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México
+Autor(es): Acosta, Brenda
+Archivo:   02-ART-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: RAI
+ISSN:            1518-8787
+URL canónica:    https://www.youtube.com/watch?v=G46QRlTXhrM&feature=youtu.be
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 1518-8787-RAI-01-01-00005
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  1518-8787-RAI-01-01-00005.xml — XML SciELO PS 1.9
+  1518-8787-RAI-01-01-00005.pdf — PDF final
+  1518-8787-RAI-01-01-00005-gf01.png — Imagen 1
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       VÁLIDO — is_valid: true
+  DTD errors:   0
+  Style errors: 0
+
+OBSERVACIONES
+------------------------------------------------------------
+  Sin observaciones — el paquete está listo para enviar a SciELO.
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Enviar el ZIP a scielo@scielo.org

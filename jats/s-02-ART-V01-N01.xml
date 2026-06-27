@@ -23,7 +23,7 @@
          </publisher>
       </journal-meta>
       <article-meta>
-         <article-id pub-id-type="publisher-id">10.1038/s41586-024-07421-0</article-id>
+         <article-id pub-id-type="publisher-id">1518-8787-RAI-01-01-00005</article-id>
          <article-id pub-id-type="doi">10.1038/s41586-024-07421-0</article-id>
          <article-categories>
             <subj-group subj-group-type="heading">
@@ -44,6 +44,10 @@
                   <surname>Acosta</surname>
                   <given-names>Brenda</given-names>
                </name>
+               <aff>
+                  <institution content-type="orgname">Departamento de Ciencias Sociales</institution>
+                  <country>Argentina</country>
+               </aff>
             </contrib>
          </contrib-group>
          <pub-date date-type="collection" publication-format="electronic">
@@ -57,7 +61,24 @@
          </pub-date>
          <volume>01</volume>
          <issue>01</issue>
+         <fpage>5</fpage>
+         <lpage>11</lpage>
          <history>
+            <date date-type="received">
+               <day>27</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
+            <date date-type="rev-recd">
+               <day>27</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
+            <date date-type="accepted">
+               <day>25</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
             <date date-type="pub">
                <day>09</day>
                <month>06</month>
@@ -304,7 +325,7 @@
             </element-citation>
          </ref>
          <ref id="bib-2564-VANDEURSEN2019">
-            <mixed-citation publication-type="journal">Van Deursen, A. y Van Dijk, J. (2019). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access. <italic>New Media \&amp; Society</italic>, <italic>21</italic>(2), 354-375. https://doi.org/10.1177/1461444817715282.</mixed-citation>
+            <mixed-citation publication-type="journal">Van Deursen, A. y Van Dijk, J. (2019). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access. <italic>New Media y Society</italic>, <italic>21</italic>(2), 354-375. https://doi.org/10.1177/1461444817715282.</mixed-citation>
             <element-citation publication-type="journal">
                <person-group person-group-type="author">
                   <name name-style="western">
@@ -317,7 +338,7 @@
                   </name>
                </person-group>
                <article-title>The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access</article-title>
-               <source>New Media \&amp; Society</source>
+               <source>New Media y Society</source>
                <year>2019</year>
                <volume>21</volume>
                <issue>2</issue>

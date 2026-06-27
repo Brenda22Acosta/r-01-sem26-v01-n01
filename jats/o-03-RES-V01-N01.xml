@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-03-RES-V01-N01-20260623201814</doi_batch_id>
-      <timestamp>20260623201814</timestamp>
+      <doi_batch_id>gbpublisher-03-RES-V01-N01-20260626210746</doi_batch_id>
+      <timestamp>20260626210746</timestamp>
       <depositor>
          <depositor_name>editorial sin nombre</depositor_name>
          <email_address>yo@gmail.com</email_address>
@@ -58,6 +58,14 @@
                <day>18</day>
                <year>2026</year>
             </publication_date>
+            <pages>
+               <first_page>12</first_page>
+               <last_page>15</last_page>
+            </pages>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</license_ref>
+            </program>
             <doi_data>
                <doi>10.1371/journal.pone.0115165</doi>
                <resource content_version="vor" mime_type="text/html">https://ar.pinterest.com/pin/719239002970177904/</resource>

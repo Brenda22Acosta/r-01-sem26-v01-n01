@@ -32,14 +32,42 @@
           <given-names>Micaela</given-names>
         </name>
         <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3777-2202</contrib-id>
+        <aff>
+          <institution>Facultad de Filosofía y Letras</institution>
+        </aff>
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">
-      <month>06</month>
       <year>2026</year>
+      <month>06</month>
+      <day>27</day>
     </pub-date>
     <volume>01</volume>
     <issue>01</issue>
+    <fpage>1</fpage>
+    <lpage>4</lpage>
+    <history>
+      <date date-type="received">
+        <day>27</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+      <date date-type="rev-recd">
+        <day>25</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+      <date date-type="accepted">
+        <day>27</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+      <date date-type="pub">
+        <day>27</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+    </history>
     <permissions>
       <copyright-year>2026</copyright-year>
       <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">

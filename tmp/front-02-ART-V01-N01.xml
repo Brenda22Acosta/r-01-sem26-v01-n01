@@ -33,15 +33,36 @@
           <given-names>Brenda</given-names>
         </name>
         <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4874-2874</contrib-id>
+        <aff>
+          <institution>Departamento de Ciencias Sociales</institution>
+        </aff>
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">
-      <month>06</month>
       <year>2026</year>
+      <month>06</month>
+      <day>27</day>
     </pub-date>
     <volume>01</volume>
     <issue>01</issue>
+    <fpage>5</fpage>
+    <lpage>11</lpage>
     <history>
+      <date date-type="received">
+        <day>27</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+      <date date-type="rev-recd">
+        <day>27</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+      <date date-type="accepted">
+        <day>25</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
       <date date-type="pub">
         <day>09</day>
         <month>06</month>
